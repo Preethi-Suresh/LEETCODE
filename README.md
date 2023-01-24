@@ -17,7 +17,7 @@ Leetcode is an online platform to enhance your skills and prepare for tech inter
 |  566  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/566.ReshapeTheMatrix.java)                											    |
 |  118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/118.Pascal'sTriangle.java)                											    |
 |  36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/566.ReshapeTheMatrix.java)                											    |
-|  76  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/566.ReshapeTheMatrix.java)                											    |
+|  76  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/74.SearchA2DMatrix.java)                											    |
 
 
 
