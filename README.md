@@ -14,3 +14,8 @@ Leetcode is an online platform to enhance your skills and prepare for tech inter
 |  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)            | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/88.MergeSortedArray.java)                  | 	
 |  350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                              | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/350.IntersectionofTwoArraysII.java)               						        |
 |  121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/121.BestTimetoBuyandSellStock.java)                											    |
+|  566  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)                                       				  | [Solution](https://github.com/Preethi-Suresh/LEETCODE/blob/main/SOLUTION/566.ReshapeTheMatrix.java)                											    |
+
+
+
+
